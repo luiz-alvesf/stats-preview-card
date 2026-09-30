@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32836676/README.md)
 # Trabalho-FrontEnd
 
 ## Stats Preview Card
